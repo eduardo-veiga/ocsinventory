@@ -1,0 +1,1 @@
+\\192.168.0.11\ocs\ocs.exe /S /NOSPLASH /tag="Hosp-Iguacu" /server=http://a7telecom.dyndns.org:62800/ocsinventory
