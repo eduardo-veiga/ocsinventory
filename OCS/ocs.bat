@@ -1,0 +1,1 @@
+ocs.exe /S /NOSPLASH /tag="Santa-Ritta" /server=http://a7telecom.dyndns.org:62800/ocsinventory

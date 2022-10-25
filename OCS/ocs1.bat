@@ -1,0 +1,1 @@
+ocs.exe /S /NOSPLASH /tag="a7" /server=http://192.168.1.21/ocsinventory
